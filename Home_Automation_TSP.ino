@@ -2,6 +2,7 @@
 #define r D7
 #include <ThingSpeak.h>
 #include <ESP8266WiFi.h>
+// Replace the SSID, password, Channel data with your own
 char ssid[] = "neelimaj";
 char pass[] = "12345678";
 WiFiClient client;
