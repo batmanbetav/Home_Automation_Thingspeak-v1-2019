@@ -3,7 +3,7 @@ This project controls two home appliances using a app designed in MIT app invent
 We also connected a Rasperrypi camera to a Raspberrypi 3B+ module for live streaming on a free server. The setup steps are shown below.
 ## Raspberrypi setup:
 Please first make sure that the latest updates are installed on your Pi. To update your Pi run
-the two commands below.
+the two commands below:
 ```
 sudo apt-get install update
 sudo apt-get install upgrade
